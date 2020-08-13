@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="main_background">#F5EBEB</color>
+    <color name="header_cd_color">#FFFFFF</color>
+    <color name="tips_text_color">#000000</color>
+
+    <color name="checkbox_heading_color">#1B2FA3</color>
+    <color name="btn_test_color">#CE80328E</color>
+
+    <color name="coronatest_main_color">#926A8C78</color>
+    <color name="pop_main_color">#E6648048</color>
+
+    <color name="navig_header_color">#AFA019</color>
+</resources>
